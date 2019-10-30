@@ -6,6 +6,8 @@ public class Test {
 		System.out.print("4 + 2 = 6");
 		//test
 
+		System.out.print("This might work");
+
 	}
 
 }
